@@ -3,7 +3,7 @@ layout: post
 title: Prof. Daniel Gezelter
 date: 2019-11-23 00:00:13 +0000
 description: # Add post description (optional)
-img: gezelter.jpg # Add image post (optional)
+img: gezelter_wide.jpg # Add image post (optional)
 ---
 Molecular Dynamics of Complex Interfaces.
 <!--more-->
