@@ -1,0 +1,8 @@
+---
+layout: post
+title: Prof. Alexander Dowling
+date: 2019-11-23 00:00:00 +0000
+description: # Add post description (optional)
+img:  # Add image post (optional)
+---
+Process Systems Engineering. Computational Optimization. Uncertainty Quantification.
