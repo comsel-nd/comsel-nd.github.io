@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Prof. Daniel Gezelter
-date: 2019-11-23 00:00:00 +0000
+date: 2019-11-23 00:00:13 +0000
 description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 Molecular Dynamics of Complex Interfaces.
+
+### Links
 
 Faculty Profile: https://chemistry.nd.edu/people/j-daniel-gezelter/
 

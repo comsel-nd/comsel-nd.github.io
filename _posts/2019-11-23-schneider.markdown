@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Prof. William Schneider
-date: 2019-11-23 00:00:00 +0000
+date: 2019-11-23 00:00:11 +0000
 description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 Heterogeneous and Computational Catalysis. Materials Discovery. Microkinetic Modeling.
+
+### Links
 
 Faculty Profile: https://engineering.nd.edu/profiles/wschneider
 

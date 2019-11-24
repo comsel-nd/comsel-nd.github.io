@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Prof. Jonathan Whitmer
-date: 2019-11-23 00:00:00 +0000
+date: 2019-11-23 00:00:10 +0000
 description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 Equilibrium and Nonequilibrium Polyelectrolytes. Liquid Crystalline Gels, Elastomers, and Sensors. Colloidal Clustering and Assembly.
+
+### Links
 
 Faculty Profile: https://engineering.nd.edu/profiles/jwhitmer
 
