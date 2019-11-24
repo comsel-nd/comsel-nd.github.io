@@ -1,0 +1,12 @@
+---
+layout: post
+title: Prof. Yamil Colón
+date: 2019-11-23 00:00:00 +0000
+description: # Add post description (optional)
+img:  # Add image post (optional)
+---
+Molecular Simulations. Porous Materials. Machine Learning.
+
+Research in the Colón group focuses on the study, discovery, and design of porous materials for targeted applications. We use and develop molecular modeling tools to: understand fluid behavior in porous confinement, quickly and accurately predict material properties and performance, and study the self-assembly pathways that give rise to promising materials. Current applications of interest include: water farming, humidity control, ion transport, and gas adsorption and separations.
+
+Faculty Profile: https://engineering.nd.edu/profiles/ycolon

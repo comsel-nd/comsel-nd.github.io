@@ -1,0 +1,13 @@
+---
+layout: post
+title: Prof. Alexander Dowling
+date: 2019-11-23 00:00:00 +0000
+description: # Add post description (optional)
+img:  # Add image post (optional)
+---
+
+Molecular Simulations and Thermodynamics. Ionic Liquids and Electrolytes. 
+
+Faculty Profile: https://engineering.nd.edu/profiles/emaginn
+
+Lab Website: http://sites.nd.edu/maginn-group
