@@ -6,7 +6,6 @@ description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 Reaction Dynamics.
-
-### Links
+<!--more-->
 
 Faculty Profile: https://chemistry.nd.edu/people/steven-corcelli/

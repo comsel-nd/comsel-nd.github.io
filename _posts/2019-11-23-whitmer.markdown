@@ -6,8 +6,7 @@ description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 Equilibrium and Nonequilibrium Polyelectrolytes. Liquid Crystalline Gels, Elastomers, and Sensors. Colloidal Clustering and Assembly.
-
-### Links
+<!--more-->
 
 Faculty Profile: https://engineering.nd.edu/profiles/jwhitmer
 

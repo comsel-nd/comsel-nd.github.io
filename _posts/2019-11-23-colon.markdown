@@ -6,7 +6,6 @@ description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 Molecular Simulations. Porous Materials. Machine Learning.
-
-### Links
+<!--more-->
 
 Faculty Profile: https://engineering.nd.edu/profiles/ycolon

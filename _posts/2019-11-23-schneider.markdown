@@ -6,8 +6,7 @@ description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
 Heterogeneous and Computational Catalysis. Materials Discovery. Microkinetic Modeling.
-
-### Links
+<!--more-->
 
 Faculty Profile: https://engineering.nd.edu/profiles/wschneider
 
