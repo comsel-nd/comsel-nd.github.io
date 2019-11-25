@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About COMSEL
-date: 2019-11-23 00:00:00 +0000
+date: 2019-11-24 00:00:00 +0000
 description: # Add post description (optional)
 img:  # Add image post (optional)
 ---
@@ -13,3 +13,9 @@ Come visit our newly renovated laboratory on the third floor of Nieuwland Scienc
 ## COMSEL Council
 
 ## Interested in joining COMSEL?
+
+## Contact Us
+
+Trouble with this website? Please email webmaster@comsel.org.
+
+Website hosting: [https://github.com/comsel-nd/comsel-nd.github.io](https://github.com/comsel-nd/comsel-nd.github.io)

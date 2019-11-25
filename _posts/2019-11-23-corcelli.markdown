@@ -8,4 +8,4 @@ img:  corcelli_wide.jpg # Add image post (optional)
 Reaction Dynamics.
 <!--more-->
 
-Faculty Profile: https://chemistry.nd.edu/people/steven-corcelli/
+Faculty Profile: [https://chemistry.nd.edu/people/steven-corcelli/](https://chemistry.nd.edu/people/steven-corcelli/)

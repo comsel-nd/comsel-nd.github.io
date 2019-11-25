@@ -8,4 +8,4 @@ img:  colon.jpeg # Add image post (optional)
 Molecular Simulations. Porous Materials. Machine Learning.
 <!--more-->
 
-Faculty Profile: https://engineering.nd.edu/profiles/ycolon
+Faculty Profile: [https://engineering.nd.edu/profiles/ycolon](https://engineering.nd.edu/profiles/ycolon)

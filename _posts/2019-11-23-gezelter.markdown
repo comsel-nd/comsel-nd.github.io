@@ -8,6 +8,6 @@ img: gezelter_wide.jpg # Add image post (optional)
 Molecular Dynamics of Complex Interfaces.
 <!--more-->
 
-Faculty Profile: https://chemistry.nd.edu/people/j-daniel-gezelter/
+Faculty Profile: [https://chemistry.nd.edu/people/j-daniel-gezelter/](https://chemistry.nd.edu/people/j-daniel-gezelter/)
 
-Lab Website: http://gezelterlab.org/team/dan-gezelter/
+Lab Website: [http://gezelterlab.org/team/dan-gezelter/](http://gezelterlab.org/team/dan-gezelter/)
