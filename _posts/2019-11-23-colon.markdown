@@ -3,7 +3,7 @@ layout: post
 title: Prof. Yamil Colón
 date: 2019-11-23 00:00:16 +0000
 description: # Add post description (optional)
-img:  colon.jpeg # Add image post (optional)
+img:  colon_new.jpg # Add image post (optional)
 ---
 Molecular Simulations. Porous Materials. Machine Learning.
 <!--more-->
