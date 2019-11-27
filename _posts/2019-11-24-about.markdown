@@ -3,16 +3,22 @@ layout: post
 title: About COMSEL
 date: 2019-11-24 00:00:00 +0000
 description: # Add post description (optional)
-img:  # Add image post (optional)
+img: comsel_logo_small.jpg # Add image post (optional)
 ---
 Come visit our newly renovated laboratory on the third floor of Nieuwland Science Hall.
 <!--more-->
 
 ## COMSEL 2.0
 
+In September 2019, we moved to a newly renovated space on the third floor of Nieuwland Science Hall.
+
+![image-title-here](/assets/img/coffee_social1_small.jpg){:class="img-responsive"}
+
 ## COMSEL Council
 
 ## Interested in joining COMSEL?
+
+Every year, we welcome five to ten postdoctoral scholars and ten to fifteen PhD new students in Chemical and Biomolecular Engineering and Chemistry and Biochemistry to COMSEL. Prospective PhD students interested in working with Profs. Colón, Dowling, Maginn, Schneider, or Whitmer should apply to the [CBE graduate progam](https://cbe.nd.edu/graduate-program/admissions). Likewise, students interested in working with Profs. Corcelli, Gezelter, or Schneider should apply to the [chemistry graduate program](https://chemistry.nd.edu/graduate/). Prospective postdoctoral scholars should contact each PI directly to inquire about current openings. 
 
 ## Contact Us
 
