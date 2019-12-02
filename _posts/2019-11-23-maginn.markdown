@@ -8,6 +8,8 @@ img:  maginn_new.jpg # Add image post (optional)
 Molecular Simulations and Thermodynamics. Ionic Liquids and Electrolytes. 
 <!--more-->
 
+[Top Figure](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.8b08859). [Bottom Figure](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.7b12236). 
+
 Faculty Profile: [https://engineering.nd.edu/profiles/emaginn](https://engineering.nd.edu/profiles/emaginn)
 
 Lab Website: [http://sites.nd.edu/maginn-group](http://sites.nd.edu/maginn-group)
