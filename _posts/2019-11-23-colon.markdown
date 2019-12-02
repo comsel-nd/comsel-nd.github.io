@@ -8,4 +8,6 @@ img:  colon_new.jpg # Add image post (optional)
 Molecular Simulations. Porous Materials. Machine Learning.
 <!--more-->
 
+The Colón group specializes in the computational design and discovery of materials. We leverage molecular modeling tools and machine learning algorithms to characterize porous materials and address their performance for energy-related applications.
+
 Faculty Profile: [https://engineering.nd.edu/profiles/ycolon](https://engineering.nd.edu/profiles/ycolon)

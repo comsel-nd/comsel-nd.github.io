@@ -8,7 +8,7 @@ img:  dowling_new.jpg # Add image post (optional)
 Process Systems Engineering. Computational Optimization. Uncertainty Quantification.
 <!--more-->
 
-Figure: The Dowling lab develops novel **molecular-to-system engineering frameworks** that integrate i) materials informatics, ii) design of experiments, iii) superstructure optimization, and iv) uncertainty quantification to address global sustainable energy and environmental challenges. [Read more here.](https://www.sciencedirect.com/science/article/pii/S2211339819300474)
+The Dowling lab develops novel *molecular-to-system engineering frameworks* that integrate i) materials informatics, ii) design of experiments, iii) superstructure optimization, and iv) uncertainty quantification to address global sustainable energy and environmental challenges. [Figure.](https://www.sciencedirect.com/science/article/pii/S2211339819300474)
 
 Faculty Profile: [https://engineering.nd.edu/profiles/adowling](https://engineering.nd.edu/profiles/adowling)
 
