@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About COMSEL
+title: About CoMSEL
 date: 2019-11-24 00:00:00 +0000
 description: # Add post description (optional)
 img: comsel_logo_small.jpg # Add image post (optional)
@@ -8,17 +8,17 @@ img: comsel_logo_small.jpg # Add image post (optional)
 Come visit our newly renovated laboratory on the third floor of Nieuwland Science Hall.
 <!--more-->
 
-## COMSEL 2.0
+## CoMSEL 2.0
 
 In September 2019, we moved to a newly renovated space on the third floor of Nieuwland Science Hall.
 
 ![image-title-here](/assets/img/coffee_social1_small.jpg){:class="img-responsive"}
 
-## COMSEL Council
+## CoMSEL Council
 
-## Interested in joining COMSEL?
+## Interested in joining CoMSEL?
 
-Every year, we welcome 5 to 10 postdoctoral scholars and 10 to 15 PhD students to COMSEL. Prospective PhD students interested in working with Profs. Colón, Dowling, Maginn, Schneider, or Whitmer should apply to the [Chemical and Biomolecular Engineering graduate progam](https://cbe.nd.edu/graduate-program/admissions). Likewise, students interested in working with Profs. Corcelli, Gezelter, or Schneider should apply to the [Chemistry and Biochemistry graduate program](https://chemistry.nd.edu/graduate/). Prospective postdoctoral scholars should contact each PI directly to inquire about current openings. 
+Every year, we welcome 5 to 10 postdoctoral scholars and 10 to 15 PhD students to CoMSEL. Prospective PhD students interested in working with Profs. Colón, Dowling, Maginn, Schneider, or Whitmer should apply to the [Chemical and Biomolecular Engineering graduate progam](https://cbe.nd.edu/graduate-program/admissions). Likewise, students interested in working with Profs. Corcelli, Gezelter, or Schneider should apply to the [Chemistry and Biochemistry graduate program](https://chemistry.nd.edu/graduate/). Prospective postdoctoral scholars should contact each PI directly to inquire about current openings. 
 
 ## Contact Us
 
