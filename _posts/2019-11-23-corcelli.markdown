@@ -3,9 +3,13 @@ layout: post
 title: Prof. Steven Corcelli
 date: 2019-11-23 00:00:15 +0000
 description: # Add post description (optional)
-img:  corcelli_wide.jpg # Add image post (optional)
+img:  corcelli_new.jpg # Add image post (optional)
 ---
-Reaction Dynamics.
+Structure, dynamics, and spectroscopy of liquids, solutions, and biomolecules
 <!--more-->
+
+[Image](https://pubs.acs.org/doi/10.1021/jacs.8b13458): Cations affect the transport properties of hydroxide in aqueous solution and the vibrational spectroscopy of nearby water molecules.
+
+Bio: Dr. Corcelli is a theoretical chemist whose research focuses on the structure, dynamics, and spectroscopy of molecular and biomolecular solutes in solution. He graduated from Brown University in 1997 (Sc.B. in Chemistry). In 2002, he was awarded a Ph.D. from Yale University where he trained with Dr. John Tully. From 2002 – 2005, he was a postdoctoral scholar with Dr. Jim Skinner at the University of Wisconsin-Madison. Dr. Corcelli began his independent academic career in 2005 at the University of Notre Dame, where he has been the grateful recipient of several awards, including the Camille and Henry Dreyfus New Faculty Award, an NSF CAREER Award, a Sloan Research Fellowship, and twice the Rev. Edmund P. Joyce, C.S.C. Award for Excellence in Undergraduate Teaching.
 
 Faculty Profile: [https://chemistry.nd.edu/people/steven-corcelli/](https://chemistry.nd.edu/people/steven-corcelli/)
