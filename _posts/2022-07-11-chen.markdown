@@ -1,0 +1,15 @@
+---
+layout: post
+title: Prof. Hsing-Ta (Theta) Chen
+date: 2022-07-10 00:00:13 +0000
+description: # Add post description (optional)
+img: chen_wide.jpg # Add image post (optional)
+---
+Electron dynamics in plasmonic materials. Strong light-matter interactions. Quantum Monte Carlo simulations.
+<!--more-->
+
+The Theta group focuses on developing theoretical models and simulation methods. Our goal is to harness the dynamics of molecules and materials strongly interacting with light and facilitate improvements in next-generation photovoltaics and quantum devices.
+
+Faculty Profile: [https://chemistry.nd.edu/people/hsing-ta-chen/](https://chemistry.nd.edu/people/hsing-ta-chen/)
+
+Lab Website: [https://sites.google.com/nd.edu/the-chen-lab/](https://sites.google.com/nd.edu/the-chen-lab/)
