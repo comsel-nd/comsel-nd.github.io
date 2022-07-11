@@ -29,7 +29,7 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-paginate: 8
+paginate: 9
 paginate_path: "/page/:num"
 
 excerpt_separator: <!--more-->
