@@ -3,7 +3,7 @@ layout: post
 title: Prof. Hsing-Ta (Theta) Chen
 date: 2022-07-10 00:00:13 +0000
 description: # Add post description (optional)
-img: chen_wide.jpg # Add image post (optional)
+img: chen_wide2.jpg # Add image post (optional)
 ---
 Electron dynamics in plasmonic materials. Strong light-matter interactions. Quantum Monte Carlo simulations.
 <!--more-->
