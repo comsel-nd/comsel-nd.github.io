@@ -25,3 +25,15 @@ Every year, we welcome 3 to 5 postdoctoral scholars and 10 to 15 PhD students to
 Trouble with this website? Please email webmaster@comsel.org.
 
 Website hosting: [https://github.com/comsel-nd/comsel-nd.github.io](https://github.com/comsel-nd/comsel-nd.github.io)
+
+## Email List
+
+Once you join CoMSEL, ask your PI or labmates to add you to the [Computational Molecular Sciences Super-Group Google group](https://groups.google.com/u/1/a/nd.edu/g/super-group-list). 
+
+## Shared Calendars
+
+After you are added to the CoMSEL Google Group, you should be able to reserve:
+
+[Large CoMSEL Conference Room, 364 NSH](https://calendar.google.com/calendar/u/1?cid=bmQuZWR1X3A1MXNiNmZsaTg3OWlja3F1Mm5oZTNkZWdzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+[Small CoMSEL Conference Room, 363 NSH](https://calendar.google.com/calendar/u/1?cid=bmQuZWR1X3NxMDFvMml0dGxkYjUxcW12OXJtZ3ZqZXNnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+[Medium CoMSEL Conference Room, 362 NSH](https://calendar.google.com/calendar/u/1?cid=bmQuZWR1X2hib21qY2Y4cjNnbnM5NGpsZDNsczY2NnNzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
