@@ -39,3 +39,11 @@ After you are added to the CoMSEL Google Group, you should be able to reserve:
 [Small CoMSEL Conference Room, 363 NSH](https://calendar.google.com/calendar/u/1?cid=bmQuZWR1X3NxMDFvMml0dGxkYjUxcW12OXJtZ3ZqZXNnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 [Medium CoMSEL Conference Room, 362 NSH](https://calendar.google.com/calendar/u/1?cid=bmQuZWR1X2hib21qY2Y4cjNnbnM5NGpsZDNsczY2NnNzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+## Location and Directions
+
+CoMSEL is on the third floor of [Nieuwland Science Hall](https://engineering.nd.edu/research-overview/facilities-and-resources/nieuwland-hall-of-science/). You should enter the southwest corner of Nieuwland Science Hall, which is the [door facing Crowley Hall (and closest to Hayes Healy Hall)](https://maps.app.goo.gl/ZRqSUNJgehjSa5w96). Then, go up two stairs (or take the elevator). We are one floor above the [Department of Chemical and Biomolecular Engineering](https://cbe.nd.edu/) and the [Department of Chemistry and Biochemistry](https://chemistry.nd.edu/) main offices.
+
+Here are the room numbers within CoMSEL:
+* 352 to 361: graduate student and postdoc offices
+* 362 to 364: conference rooms
